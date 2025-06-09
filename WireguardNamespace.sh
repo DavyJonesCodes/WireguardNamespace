@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # ==========================================================
-# vpn_namespace_setup.sh
+# WireguardNamespace.sh
 # ----------------------------------------------------------
 # Author: DavyJonesCodes
 # GitHub: https://github.com/DavyJonesCodes

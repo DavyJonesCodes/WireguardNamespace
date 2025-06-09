@@ -12,7 +12,7 @@
 #   optionally routed through WireGuard VPN.
 #
 # Usage:
-#   sudo ./vpn_namespace_setup.sh [--name <namespace>] [interface] [--no-vpn] [--teardown]
+#   sudo ./WireguardNamespace.sh [--name <namespace>] [interface] [--no-vpn] [--teardown]
 #
 #   --name        Custom name for the namespace (default: vpnspace)
 #   interface     Optional: network interface to use (e.g., eth0)

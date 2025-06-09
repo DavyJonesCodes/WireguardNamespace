@@ -27,7 +27,7 @@ VPEER="vpn-peer"
 VETH_ADDR="10.200.1.1"
 VPEER_ADDR="10.200.1.2"
 DEFAULT_ROUTE="10.200.1.1"
-WG_CONFIG="/etc/wireguard/jp-osa-wg-001.conf"
+WG_CONFIG="/etc/wireguard/wg0.conf"
 
 # -------- Parse Arguments --------
 SKIP_VPN=false
